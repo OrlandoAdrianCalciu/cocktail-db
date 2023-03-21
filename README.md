@@ -1,15 +1,11 @@
-#### React Router Fix
+## myFlix-client
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+![cocktail-db](https://user-images.githubusercontent.com/105219302/226632721-5705f01e-c609-4c9b-b835-f4eb3e129a7b.jpg)
 
-#### CRA Fix
+## Description 
 
-```
+This is a database Built App. The main point of the app is to display a database of cocktails and allow users to interact with them.
 
-"build": "CI= react-scripts build",
+## Links
 
-```
-
-```sh
-npm install react-router-dom@6
-```
+Live Demo: [Cocktail db](https://cocktaildb1-project.netlify.app/)
